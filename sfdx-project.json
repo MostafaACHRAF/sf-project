@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "first-project",
+  "namespace": "",
+  "sfdcLoginUrl": "https://mindful-otter-6caamv-dev-ed.lightning.force.com",
+  "sourceApiVersion": "52.0"
+}
